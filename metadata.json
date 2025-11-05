@@ -1,0 +1,5 @@
+{
+  "name": "News Citation Verifier",
+  "description": "An application to search for news articles based on keywords and date ranges. It specializes in finding Korean news articles that cite foreign press, locating the original source, and evaluating the accuracy of the citation using AI.",
+  "requestFramePermissions": []
+}
